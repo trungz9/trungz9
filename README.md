@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! I'm Trung
+
+- I'm a software engineer and designer from Vietnam
+- Right now I'm study in Uni and doing some project
+- I'm passionate about full-stack, ML, animetion and Japan
 
 <!--
 **trungz9/trungz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
