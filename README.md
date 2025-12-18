@@ -1,20 +1,22 @@
 ## Hi! I'm Trung
 
+
+**About me**
 - I'm a software engineer and designer from Vietnam
 - Right now I'm study in Uni and doing some project
-- I'm passionate about full-stack, ML, animetion and Japan
+- I'm passionate about Full-stack, Machine Learning, Data Analytics, Animetion and Japan
 
-<!--
-**trungz9/trungz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Out topic**
+My farvourite figure:
+<img src="./images/fav_figure.jpeg" width="400">
+My farvourite Movie:
+<img src="./images/fav_movie.jpeg" width="400">
+My farvourite Quote:
+<img src="./images/Quotes.jpeg" width="400">
