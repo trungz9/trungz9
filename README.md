@@ -16,16 +16,16 @@
 **Out topic**
 <p align="center">
 My farvourite figure:
-  <img src="./images/fav_figure.jpeg" width="400">
+  <img src="./images/fav_figure.jpeg" width="100">
 </p>
 
 <p align="left">
 My farvourite Movie:
-<img src="./images/fav_movie.jpeg" width="400">
+<img src="./images/fav_movie.jpeg" width="100">
 </p>
 
 <p align="left">
 My farvourite Quote:
-<img src="./images/Quotes.jpeg" width="400">
+<img src="./images/Quotes.jpeg" width="100">
 </p>
 
