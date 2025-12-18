@@ -17,11 +17,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungz9&layout=compact&theme=dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=trungz9&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=trungz9&theme=dark)
-![Visitors](https://komarev.com/ghpvc/?username=trungz9&theme=dark)
 
-
-
-**My farvourite Quote:**
+### My farvourite Quote:
 
 <p align="left">
   <img src="./images/Quotes.jpeg" width="400">
