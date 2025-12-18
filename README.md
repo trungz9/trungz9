@@ -13,7 +13,11 @@
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungz9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungz9&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungz9&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=trungz9&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=trungz9&theme=darkhub)
+
 
 **My farvourite Quote:**
 
