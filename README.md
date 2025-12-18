@@ -15,13 +15,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungz9&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungz9&layout=compact&theme=dark)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=trungz9&theme=dark&v=1" width="420">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trungz9&theme=dark&v=1">
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=trungz9&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=trungz9&theme=dark)
+![Visitors](https://komarev.com/ghpvc/?username=trungz9&theme=dark)
 
 
 
