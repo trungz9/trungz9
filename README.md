@@ -17,9 +17,9 @@
 
 <p align="center">
 My farvourite figure:My farvourite Movie:My farvourite Quote:<br>
-  <img src="./images/Quotes.jpeg" width="180">
-  <img src="./images/fav_figure.jpeg" width="180">
-  <img src="./images/fav_movie.jpeg" width="180">
+  <img src="./images/Quotes.jpeg" width="360">
+  <img src="./images/fav_figure.jpeg" width="360">
+  <img src="./images/fav_movie.jpeg" width="360">
 </p>
 
 
