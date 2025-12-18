@@ -14,18 +14,12 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **Out topic**
+
 <p align="center">
-My farvourite figure:
-  <img src="./images/fav_figure.jpeg" width="100">
+My farvourite figure:My farvourite Movie:My farvourite Quote:<br>
+  <img src="./images/Quotes.jpeg" width="180">
+  <img src="./images/fav_figure.jpeg" width="180">
+  <img src="./images/fav_movie.jpeg" width="180">
 </p>
 
-<p align="left">
-My farvourite Movie:
-<img src="./images/fav_movie.jpeg" width="100">
-</p>
-
-<p align="left">
-My farvourite Quote:
-<img src="./images/Quotes.jpeg" width="100">
-</p>
 
