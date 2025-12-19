@@ -1,7 +1,7 @@
 ## Hi! I'm Trung
 
 
-**About me**
+### About me
 - I'm a software engineer and designer from Vietnam
 - Right now I'm study in Uni and doing some project
 - I'm passionate about Full-stack, Machine Learning, Data Analytics, Animetion and Japan
@@ -13,10 +13,8 @@
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungz9&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungz9&layout=compact&theme=dark)
-![trophy](https://github-profile-trophy.vercel.app/?username=trungz9&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=trungz9&theme=dark)
+![trungz9's Stats](https://github-readme-stats.vercel.app/api?username=trungz9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![trungz9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trungz9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### My farvourite Quote:
 
