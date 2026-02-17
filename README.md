@@ -15,8 +15,6 @@
 
 ### My farvourite Quote:
 
-<p align="left">
-  <img src="./images/Quotes.jpeg" width="400">
-</p>
+- I never want to regret not trying something. It's better to try and fail. -Hayao Miyazaki-
 
 
